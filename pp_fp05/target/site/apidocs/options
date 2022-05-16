@@ -1,0 +1,24 @@
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Users/Asus/Documents/NetBeansProjects/pp_fp05/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Asus/Documents/NetBeansProjects/pp_fp05/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pp_fp05 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/Asus/Documents/NetBeansProjects/pp_fp05/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'pp_fp05 1.0-SNAPSHOT API'
